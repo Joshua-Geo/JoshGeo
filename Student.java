@@ -1,5 +1,5 @@
 public class Student extends User {
-    String matricNo = "BHU/22/02/07/0089";
+    String matricNo = "BHU/22/04/09/0096";
     String adminNo = "BHU0012345";
 
 
